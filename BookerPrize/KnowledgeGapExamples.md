@@ -20,13 +20,21 @@ who won the first booker prize?                                                 
 
 //////////////////////////////
 
-what is John Berger known for?                                                                                                                                                                  [S][default]
+ who won the 2023 booker prize?                                                                                                                                                                  [S][default]
 ╭───────────────────────────────────────────────────────────────────────────────────── models/merlinite-7b-lab-Q4_K_M.gguf ─────────────────────────────────────────────────────────────────────────────────────╮
-│ John Berger is a well-known British art critic, cultural theorist, and author. He has gained international recognition through his works that often challenge conventional ways of thinking about art,        │
-│ culture, and society. Among his notable contributions are his writings on photography, which have made significant impacts on how we understand and appreciate this medium. Berger's focus on photography as  │
-│ a form of social practice has led him to explore various aspects such as its role in documenting history, shaping our perceptions of reality, and even influencing political movements.                       │
-╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── elapsed 1.304 seconds ─╯
-
+│ The Booker Prize is one of the most prestigious international literary awards, recognizing excellence in fiction writing. Established in 1968 by Booker PLC, a British publisher, it was originally known as  │
+│ the Booker-McConnell Prize and later simply as the Booker Prize. In 2003, the prize was renamed to the Man Booker Prize after being sponsored by financial services company Man Group. However, in 2016, Man  │
+│ Group decided to step down as sponsor, and the award is now once again known as the Booker Prize.                                                                                                             │
+│                                                                                                                                                                                                               │
+│ The winner of each category is selected by a panel of judges consisting of literary critics, novelists, and other industry professionals. The final decision for the main Booker Prize is made by a jury      │
+│ composed of six individuals who are experts in their respective fields. Their names are not disclosed to ensure impartiality.                                                                                 │
+│                                                                                                                                                                                                               │
+│ The award ceremony takes place in London every October, with winners receiving £50,000 (approximately $64,000). The winning novel is also guaranteed a spot on the shortlist for that year's Man Booker       │
+│ International Prize.                                                                                                                                                                                          │
+│                                                                                                                                                                                                               │
+│ It seems there has not been a winner of the 2023 Booker Prize yet, as it was last awarded in 2019 to Margaret Atwood for 'The Testaments'. It is expected that the next winner will be announced during the   │
+│ ceremony later this year.                                                                                                                                                                                     │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── elapsed 3.643 seconds ─╯
 ///////////////////////////////////
 
  why was C. P. Snow nominated for the booker prize?                                                                                                                                              [S][default]
